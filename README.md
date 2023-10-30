@@ -33,7 +33,7 @@ GOSACCO. The software to manage your sacco.
 * Other guidelines
 
 ### Who do I talk to? ###
-
+*aibunny waihenyafredrick@gmail.com
 * Lubega Mark lubegamark@gmail.com
 * Semakula Kraiba krabz01@gmail.com
 * Buhiire Keneth buhiirekeneth@gmail.com
